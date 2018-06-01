@@ -1,0 +1,14 @@
+Total Months
+86
+Total Revenue
+36973911
+Average Delta in Revenue
+5087.08
+Max Revenue
+1645140
+Max Date
+Jul-2014
+Min Revenue
+-1947745
+Min Date
+Jun-2014
