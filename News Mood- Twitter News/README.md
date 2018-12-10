@@ -35,3 +35,9 @@ You must complete your analysis using a Jupyter notebook.
 You must use the Matplotlib or Pandas plotting libraries.
 Include a written description of three observable trends based on the data.
 Include proper labeling of your plots, including plot titles (with date of analysis) and axes labels.
+
+BBC ![BBC](https://github.com/paulhgraham/Python-Projects/blob/master/News%20Mood-%20Twitter%20News/BBC.png)
+CBS ![CBS](https://github.com/paulhgraham/Python-Projects/blob/master/News%20Mood-%20Twitter%20News/CBS.png)
+CNN ![CNN](https://github.com/paulhgraham/Python-Projects/blob/master/News%20Mood-%20Twitter%20News/CNN.png)
+Fox News ![Fox News](https://github.com/paulhgraham/Python-Projects/blob/master/News%20Mood-%20Twitter%20News/fox.png)
+New York Times ![New York Times](https://github.com/paulhgraham/Python-Projects/blob/master/News%20Mood-%20Twitter%20News/nytimes.png)
