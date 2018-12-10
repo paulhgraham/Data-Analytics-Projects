@@ -1,7 +1,8 @@
 # python-challenge
 A collection of different python based exercises
 
-Projects
+#Projects
+
 HeroesOfPymoli - analyze fictional user data
 
 News Mood- Twitter News Sentiment Analysis of BBC, CBS, CNN, Fox, and New York Times
